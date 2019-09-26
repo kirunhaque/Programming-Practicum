@@ -7,3 +7,7 @@ parentheses: ( )
 Curly braces: { } 
 square brackets: []
 angle brackets: < >
+
+#Maze Solving
+C program that will find its way through a maze using the depth-first search algorithm.  
+This program takes input from a file where the filename is specified in the command line arguments
