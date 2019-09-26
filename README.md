@@ -27,3 +27,7 @@ then the number of columns given by the second number), valid values are >= 1
  The system does not take reservations for a specific time and date (i.e. table of 4 for 7pm on Saturday), but it will allow for a group   to call ahead and get their name on the waiting list beforethey arrive.
  
 
+### Infix Evaluation Program ###
+
+A C++program that will evaluate an infix expression.The algorithm for this program will use two stacks, an operator stack 
+and a value stack
